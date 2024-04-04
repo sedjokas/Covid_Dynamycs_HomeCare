@@ -11,6 +11,6 @@ Run our GAMA source code:
 To run these source codes, download GAMAPLATFORM 1.9 url: https://gama-platform.github.io/download for free. Please be sure that you have JDK or JRE installed in your system. Create a new model and copy/paste the model (Covid.gaml) to your GAMA, file: Covid.gaml.
 
 Run our python and R source code :
-Identify all .r and .py file and execute them, please edit data (.csv or xls files) location.
+Identify all .r and .py file and execute them, please edit data (.csv or xlsx files) location.
 
 Enjoy
